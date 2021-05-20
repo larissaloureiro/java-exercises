@@ -1,7 +1,7 @@
 # Bootcamp IGTI: Programador de Software Iniciante
-# Módulo 3 - Trabalho Prático
+## Módulo 3 - Trabalho Prático
 ---
-## Atividades
+### Atividades
 
 O aluno deverá criar um programa para auxiliar o dono de uma pizzaria na gestão do seu estabelecimento.
 
